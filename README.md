@@ -12,4 +12,8 @@ The goal of this notebook is to:
 2. Train a machine learning model to predict Bechdel Test scores for movies, given parameters that are available in the IMDb Public Dataset
 3. Apply that model to the IMDb dataset, and analyize the results of the predictions that it provides.
 
+
+Please use NB Viewer to view the notebook's visualizations. They're created in bokeh, which does not show up in github for some reason. https://nbviewer.jupyter.org/
+
+
 Thank you
