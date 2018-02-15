@@ -13,7 +13,7 @@ The goal of this notebook is to:
 3. Apply that model to the IMDb dataset, and analyize the results of the predictions that it provides.
 
 
-Please use NB Viewer to view the notebook's visualizations. They're created in bokeh, which does not show up in github for some reason. That link is here: https://nbviewer.jupyter.org/github/svirshup/ML-IMDb-Bechdel/blob/master/Machine%20Learning%20to%20Predict%20Female%20Representation%20in%20Movies.ipynb#mapbefore
+Please use NB Viewer to view the notebook's visualizations. They're created in bokeh, which does not show up in github for some reason. That link is here: https://nbviewer.jupyter.org/github/svirshup/ML-IMDb-Bechdel/blob/master/Machine%20Learning%20to%20Predict%20Female%20Representation%20in%20Movies.ipynb
 
 
 Thank you
